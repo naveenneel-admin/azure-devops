@@ -1,1 +1,7 @@
 difference between softlinks and hard links
+softlinks: created across the file system
+           gets different inode number
+           for both files and directories 
+hardlinks: create with in the file system
+           getting same inode number
+           only for files
